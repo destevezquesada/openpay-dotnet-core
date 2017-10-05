@@ -1,0 +1,9 @@
+C:\Users\deste\documents\visual studio 2017\Projects\Vane\Openpay\bin\Debug\netcoreapp2.0\Openpay.deps.json
+C:\Users\deste\documents\visual studio 2017\Projects\Vane\Openpay\bin\Debug\netcoreapp2.0\Openpay.dll
+C:\Users\deste\documents\visual studio 2017\Projects\Vane\Openpay\obj\Debug\netcoreapp2.0\Openpay.csprojResolveAssemblyReference.cache
+C:\Users\deste\documents\visual studio 2017\Projects\Vane\Openpay\obj\Debug\netcoreapp2.0\Openpay.csproj.CoreCompileInputs.cache
+C:\Users\deste\documents\visual studio 2017\Projects\Vane\Openpay\obj\Debug\netcoreapp2.0\Openpay.AssemblyInfoInputs.cache
+C:\Users\deste\documents\visual studio 2017\Projects\Vane\Openpay\obj\Debug\netcoreapp2.0\Openpay.AssemblyInfo.cs
+C:\Users\deste\documents\visual studio 2017\Projects\Vane\Openpay\bin\Debug\netcoreapp2.0\Openpay.pdb
+C:\Users\deste\documents\visual studio 2017\Projects\Vane\Openpay\obj\Debug\netcoreapp2.0\Openpay.dll
+C:\Users\deste\documents\visual studio 2017\Projects\Vane\Openpay\obj\Debug\netcoreapp2.0\Openpay.pdb

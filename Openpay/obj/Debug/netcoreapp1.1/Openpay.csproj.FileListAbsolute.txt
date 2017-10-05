@@ -1,0 +1,8 @@
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\Openpay\bin\Debug\netcoreapp1.1\Openpay.deps.json
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\Openpay\bin\Debug\netcoreapp1.1\Openpay.dll
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\Openpay\bin\Debug\netcoreapp1.1\Openpay.pdb
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\Openpay\obj\Debug\netcoreapp1.1\Openpay.csproj.CoreCompileInputs.cache
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\Openpay\obj\Debug\netcoreapp1.1\Openpay.AssemblyInfoInputs.cache
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\Openpay\obj\Debug\netcoreapp1.1\Openpay.AssemblyInfo.cs
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\Openpay\obj\Debug\netcoreapp1.1\Openpay.dll
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\Openpay\obj\Debug\netcoreapp1.1\Openpay.pdb

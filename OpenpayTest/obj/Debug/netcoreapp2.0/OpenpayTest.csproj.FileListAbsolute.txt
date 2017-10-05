@@ -1,0 +1,16 @@
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\obj\Debug\netcoreapp2.0\OpenpayTest.csprojResolveAssemblyReference.cache
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\obj\Debug\netcoreapp2.0\OpenpayTest.csproj.CoreCompileInputs.cache
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\obj\Debug\netcoreapp2.0\OpenpayTest.AssemblyInfoInputs.cache
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\obj\Debug\netcoreapp2.0\OpenpayTest.AssemblyInfo.cs
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\OpenpayTest.deps.json
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\OpenpayTest.runtimeconfig.json
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\OpenpayTest.runtimeconfig.dev.json
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\OpenpayTest.dll
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\OpenpayTest.pdb
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\Openpay.dll
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\bin\Debug\netcoreapp2.0\Openpay.pdb
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\obj\Debug\netcoreapp2.0\OpenpayTest.dll
+C:\Users\deste\Documents\Visual Studio 2017\Projects\openpay-dotnet-core\OpenpayTest\obj\Debug\netcoreapp2.0\OpenpayTest.pdb
