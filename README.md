@@ -20,17 +20,17 @@ It is recommended that you use [NuGet](http://docs.nuget.org) for install this l
 
 Package Manager
 ```net
-Install-Package destevezquesada.openpay.dotnet.core -Version 1.0.0
+Install-Package destevezquesada.openpay.dotnet.core -Version 1.1.0
 ```
 
 Net CLI
 ```net
-dotnet add package destevezquesada.openpay.dotnet.core --version 1.0.0
+dotnet add package destevezquesada.openpay.dotnet.core --version 1.1.0
 ```
 
 Paket CLI
 ```net
-paket add destevezquesada.openpay.dotnet.core --version 1.0.0
+paket add destevezquesada.openpay.dotnet.core --version 1.1.0
 ```
 
 #### Configuration #####
