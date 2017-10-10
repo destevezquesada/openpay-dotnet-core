@@ -18,6 +18,21 @@ Quick Start
 
 It is recommended that you use [NuGet](http://docs.nuget.org) for install this library. Or you can fork the code and build it.
 
+Package Manager
+```net
+Install-Package destevezquesada.openpay.dotnet.core -Version 1.0.0
+```
+
+Net CLI
+```net
+dotnet add package destevezquesada.openpay.dotnet.core --version 1.0.0
+```
+
+Paket CLI
+```net
+paket add destevezquesada.openpay.dotnet.core --version 1.0.0
+```
+
 #### Configuration #####
 
 Before use the library will be necessary to set up your Merchant ID and
